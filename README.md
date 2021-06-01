@@ -1,6 +1,6 @@
 Hello everyone！
 
-I　am 20s.
+I am 20s.
 
 I like photo,camera,basketball,coffee,and trip.
 

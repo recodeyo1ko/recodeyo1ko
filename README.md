@@ -6,7 +6,8 @@ I like photo,camera,basketball,coffee,and trip.
 
 I specialize in deep learning.
 
-python ruby
+python ruby ruby on rails
+HTML CSS
 
 ### ---My notes ---
 https://gitpress.io/u/1554

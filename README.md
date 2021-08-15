@@ -1,6 +1,6 @@
 Hello everyone！
 
-I am 21s.
+I am 2s.
 
 I like photo,camera,basketball,coffee,and trip.
 

@@ -6,6 +6,8 @@ I like photo,camera,basketball,coffee,and trip.
 
 I specialize in deep learning.
 
+I work as a programming mentor
+
 python ruby ruby on rails
 HTML CSS
 

@@ -11,11 +11,11 @@ I work as a programming mentor
 python ruby ruby on rails
 HTML CSS
 
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kei-t76&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Re-he4i5&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kei-t76&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Re-he4i5&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ---My notes ---
 https://gitpress.io/u/1554

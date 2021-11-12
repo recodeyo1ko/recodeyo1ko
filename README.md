@@ -4,13 +4,6 @@ I am 22s.
 
 I like photo,camera,basketball,coffee,and trip.
 
-I specialize in deep learning.
-
-I work as a programming mentor
-
-python ruby ruby on rails
-HTML CSS
-
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Re-he4i5&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <br>

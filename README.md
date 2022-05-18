@@ -1,6 +1,6 @@
 
 <p align="left"> 
-  <img alt="trophy" height="110px" src="https://github-profile-trophy.vercel.app/?username=Re-he4i5&margin-w=30&margin-h=30&theme=onedark" />
+  <img alt="trophy" height="120px" src="https://github-profile-trophy.vercel.app/?username=Re-he4i5&margin-w=30&margin-h=30&theme=onedark" />
 </p>
 
 <p align="left"> 

@@ -13,13 +13,12 @@ I like photo,camera,basketball,coffee,and trip.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Re-he4i5&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
-https://github-profile-trophy.vercel.app/?username=Re-he4i5&theme=radical
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Re-he4i5&theme=onedark)](https://github.com/Re-he4i5/github-profile-trophy)
 
 ### ---My notes ---
 comming soon
 https://gitpress.io/u/1554
+
 
 
 <!--

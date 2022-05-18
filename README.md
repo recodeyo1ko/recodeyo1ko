@@ -1,3 +1,12 @@
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Re-he4i5&theme=onedark)](https://github.com/Re-he4i5/github-profile-trophy)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Re-he4i5&theme=onedark)](https://github.com/Re-he4i5/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Re-he4i5&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 Hello everyone！
 
 I am 23s.
@@ -10,10 +19,7 @@ I like photo,camera,basketball,coffee,and trip.
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Re-he4i5&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Re-he4i5&theme=onedark)](https://github.com/Re-he4i5/github-profile-trophy)
 
 ### ---My notes ---
 comming soon

@@ -15,3 +15,7 @@ select を使う
   <%= f.submit "変更", class:"btn btn-success" %>
 <% end %>
 ```
+
+
+Book.newと
+@book

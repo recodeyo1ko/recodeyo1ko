@@ -16,6 +16,10 @@ select を使う
 <% end %>
 ```
 
+ブロック変数
+
+
+
 
 Book.newと
 @book

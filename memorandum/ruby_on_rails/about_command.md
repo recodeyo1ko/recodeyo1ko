@@ -6,3 +6,8 @@ rails db:migrate:status
 rails db:migrate:log
 
 rails db:migrate:reset
+
+
+rails g model
+
+rails g controller

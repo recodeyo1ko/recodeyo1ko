@@ -61,6 +61,9 @@ rmdir /s .git
 
 git フォルダが開けに現象：監視リポジトリが下にある
 
+```
+git rm --cached testSubModule
+```
 
 ```
 //ファイル全体のキャッシュ削除

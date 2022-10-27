@@ -85,3 +85,6 @@ git branch -m <古いブランチ名> <新しいブランチ名>
 ```
 git branch -m <新しいブランチ名>
 ```
+
+
+git push -f origin abcdefg123:master

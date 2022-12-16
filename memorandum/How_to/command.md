@@ -22,6 +22,7 @@
 
 ```
 ffmpeg -i input.mp4 -s resolution -crf 18 output.mp4
+ffmpeg -i input.mp4 -crf 32 output.mp4
 ```
 
 

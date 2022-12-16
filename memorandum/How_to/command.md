@@ -20,4 +20,15 @@
 |  |  |  |
 |  |  |  |
 
+```
+ffmpeg -i input.mp4 -s resolution -crf 18 output.mp4
+```
 
+
+-sのresolutionには映像の解像度を指定します。
+
+
+-crfの後の数値は、大きいほど圧縮効率が高まります。
+
+
+ただし品質が落ちますので、十分吟味してください。

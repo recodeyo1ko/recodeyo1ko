@@ -59,4 +59,8 @@ Host github.com
    Port 443
    IdentityFile ~/.ssh/id_rsa
 ```
+### Slack
+```
+sudo snap install slack
 
+```

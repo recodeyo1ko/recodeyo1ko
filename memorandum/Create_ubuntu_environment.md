@@ -16,6 +16,7 @@
 ```
 Sudo apt update
 sudo apt upgrade
+sudo apt autoremove --purge
 ```
 ### Chrome
 

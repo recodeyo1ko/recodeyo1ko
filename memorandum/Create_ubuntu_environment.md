@@ -15,6 +15,7 @@
 
 ```
 Sudo apt update
+sudo apt upgrade
 ```
 ### Chrome
 

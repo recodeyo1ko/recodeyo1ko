@@ -67,3 +67,13 @@ Host github.com
 sudo snap install slack
 
 ```
+
+### 片方のディスプレイが認識されない
+
+- Ubuntu 20.でUpdate,Upgradeしたら起こりうる
+
+```
+sudo apt-get purge 'nvidia*'
+sudo add-apt-repository ppa:graphics-drivers
+sudo apt-get update 
+```

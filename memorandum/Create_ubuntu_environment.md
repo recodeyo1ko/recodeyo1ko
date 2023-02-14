@@ -42,6 +42,7 @@ sudo apt install git
 ```
 ssh接続の準備
 ```
+mkdir ~/.ssh
 cd ~/.ssh
 ssh-keygen -t rsa
 cat ~/.ssh/id_rsa.pub
@@ -50,7 +51,7 @@ cat ~/.ssh/id_rsa.pub
 
 gitの接続がエラーになったら
 ```
-ssh -T git@github.com
+ssh -T -p 443 git@ssh.github.com
 vi ~/.ssh/config
 ```
 vim内で以下記述後保存して終了。（:wq）

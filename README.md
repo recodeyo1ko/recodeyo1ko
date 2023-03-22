@@ -13,5 +13,5 @@
 
 ## 資格
 
-![digital_assistant](https://github.com/Re-he4i5/Re-he4i5/file/digital_assistant.png)
+![digital_assistant](/file/digital_assistant.png)
 

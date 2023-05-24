@@ -20,8 +20,15 @@
 > このバッジの保有者は、デジタル推進委員であることを証明します。 デジタル推進委員は、デジタル機器・サービスに不慣れな方等に対し、デジタル機器・サービスの利用方法等を教える・サポートする活動を行います。
 
 
-front
-react
+## front
 
-back
-rails
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,bootstrap)](https://skillicons.dev)
+
+## back
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby, )](https://skillicons.dev)
+
+
+## study
+[![My Skills](https://skillicons.dev/icons?i=docker,py, tensorflow, linux	 )](https://skillicons.dev)
+
+

@@ -1,8 +1,6 @@
 # Re-he4i5
 
-<p align="left"> 
-  <img alt="trophy" height="100px" src="https://github-profile-trophy.vercel.app/?username=Re-he4i5&margin-w=30&margin-h=30&theme=onedark" />
-</p>
+  <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=Re-he4i5&column=-1&theme=onedark" />
 
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Re-he4i5&theme=onedark" />

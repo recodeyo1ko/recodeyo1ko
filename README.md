@@ -1,19 +1,13 @@
 # Re-he4i5
 
-  <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=Re-he4i5&column=-1&theme=onedark" />
-
-<p align="left"> 
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Re-he4i5&theme=onedark" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Re-he4i5&layout=compact&theme=onedark" />
-</p>
 ### Stats
-##test
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Re-he4i5&theme=onedark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Re-he4i5&theme=onedark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Re-he4i5&theme=onedark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Re-he4i5&theme=onedark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Re-he4i5&theme=onedark&utcOffset=9)
-![](https://github-profile-trophy.vercel.app/?username=Re-he4i5&theme=onedark)
+![](https://github-profile-trophy.vercel.app/?username=Re-he4i5&theme=onedark&column=-1)
 
 
 ## 資格

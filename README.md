@@ -24,10 +24,9 @@
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,bootstrap)](https://skillicons.dev)
 
 ## back
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ruby, )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ruby )](https://skillicons.dev)
 
 
 ## study
-[![My Skills](https://skillicons.dev/icons?i=docker,py, tensorflow, linux	 )](https://skillicons.dev)
 
 

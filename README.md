@@ -17,7 +17,9 @@
 ![Static Badge](https://img.shields.io/badge/TypeScript-code?logo=TypeScript&label=Code&color=blue)
 ![Static Badge](https://img.shields.io/badge/JavaScript-code?logo=JavaScript&label=Code&color=blue)
 ![Static Badge](https://img.shields.io/badge/ruby-code?logo=ruby&logoColor=red&label=Code&color=blue)
+![Static Badge](https://img.shields.io/badge/Go-code?logo=Go&label=Code&color=blue)
 ![Static Badge](https://img.shields.io/badge/python-code?logo=python&label=Code&color=blue)
+
 
 ![Static Badge](https://img.shields.io/badge/react-code?logo=react&label=Tool&color=blue)
 ![Static Badge](https://img.shields.io/badge/Next.js-code?logo=Next.js&label=Tool&color=blue)

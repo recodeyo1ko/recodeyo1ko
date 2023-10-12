@@ -14,21 +14,7 @@
 ![digital_assistant](/file/digital_assistant.png)
 
 ## Technologies & Tools
-![Static Badge](https://img.shields.io/badge/TypeScript-code?logo=TypeScript&label=Code&color=blue)
-![Static Badge](https://img.shields.io/badge/JavaScript-code?logo=JavaScript&label=Code&color=blue)
-![Static Badge](https://img.shields.io/badge/ruby-code?logo=ruby&logoColor=red&label=Code&color=blue)
-![Static Badge](https://img.shields.io/badge/Go-code?logo=Go&label=Code&color=blue)
-![Static Badge](https://img.shields.io/badge/python-code?logo=python&label=Code&color=blue)
-
-
-![Static Badge](https://img.shields.io/badge/react-code?logo=react&label=Tool&color=blue)
-![Static Badge](https://img.shields.io/badge/Next.js-code?logo=Next.js&label=Tool&color=blue)
-![Static Badge](https://img.shields.io/badge/Rails-code?logo=Rails&label=Tool&color=blue)
-
-
-
-![Static Badge](https://img.shields.io/badge/bootstrap-Tool?logo=bootstrap&label=Tool&color=green)
-![Static Badge](https://img.shields.io/badge/Docker-Tool?logo=Docker&label=Tool&color=green)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,docker,nextjs,py,rails,ruby,tailwind,ts)](https://skillicons.dev)
 
 
 

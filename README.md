@@ -2,6 +2,10 @@
 
 ## profile
 
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/recodeyo1ko/posts.svg)](http://qiita.com/recodeyo1ko)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/recodeyo1ko/contributions.svg)](http://qiita.com/recodeyo1ko)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/recodeyo1ko/followers.svg)](http://qiita.com/recodeyo1ko)
+
 ### Language
 
 [![My Skills](https://skillicons.dev/icons?i=ruby,js,ts,py)](https://skillicons.dev)

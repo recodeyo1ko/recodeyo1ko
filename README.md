@@ -12,7 +12,7 @@
 
 ### Framework
 
-[![My Skills](https://skillicons.dev/icons?i=rails,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rails,nextjs,django)](https://skillicons.dev)
 
 ### Library
 [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,tailwind)](https://skillicons.dev)

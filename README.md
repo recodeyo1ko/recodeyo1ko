@@ -23,10 +23,9 @@
 
 ## Certification
 
-![](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/MTZtQWQwUG00Wm5JWWhMbnBTM0Rpdz09)
+[![digital_assistant](/file/digital_assistant.png)](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/MTZtQWQwUG00Wm5JWWhMbnBTM0Rpdz09)
 
-![digital_assistant](/file/digital_assistant.png)
-
+[![AWS_CLF](/file/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/ce8e8a91-a2f9-4fe1-a151-b676bb905f11/public_url)
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=recodeyo1ko&theme=onedark)
